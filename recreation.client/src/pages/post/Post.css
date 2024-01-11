@@ -1,0 +1,25 @@
+.input-comment {
+    padding-top: 35px !important;
+}
+
+.input-comment::placeholder {
+    font-size: 14px;
+}
+
+.button-send {
+    position: absolute;
+    right: 15px;
+    transition: all .3s .0s;
+    cursor: pointer;
+}
+
+.button-send:hover * {
+    stroke: var(--primary-hover-color);
+}
+
+.input-comment-label {
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    font-size: 12px !important;
+}

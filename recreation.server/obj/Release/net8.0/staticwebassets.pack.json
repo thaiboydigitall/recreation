@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nagoe\\source\\repos\\Recreation\\Recreation.Server\\wwwroot\\images\\07158326-ebc1-4195-9512-3bfd285c3888e33ba29c17be919603c540fff38b18de.jpg",
+      "PackagePath": "staticwebassets\\images\\07158326-ebc1-4195-9512-3bfd285c3888e33ba29c17be919603c540fff38b18de.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nagoe\\source\\repos\\Recreation\\Recreation.Server\\wwwroot\\images\\3dcb6771-e43d-492c-a27e-abcfab48c3ad1650878744_9-vsegda-pomnim-com-p-progulka-v-gorakh-foto-9.jpg",
+      "PackagePath": "staticwebassets\\images\\3dcb6771-e43d-492c-a27e-abcfab48c3ad1650878744_9-vsegda-pomnim-com-p-progulka-v-gorakh-foto-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nagoe\\source\\repos\\Recreation\\Recreation.Server\\wwwroot\\images\\7cf43d19-0575-4f82-85c9-eb6eccd36fddvelosipedy.jpg",
+      "PackagePath": "staticwebassets\\images\\7cf43d19-0575-4f82-85c9-eb6eccd36fddvelosipedy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nagoe\\source\\repos\\Recreation\\Recreation.Server\\wwwroot\\images\\941e1a90-417c-48d6-aab6-de40fc4db000b24721146a2298cf550594d8246d8708.jpg",
+      "PackagePath": "staticwebassets\\images\\941e1a90-417c-48d6-aab6-de40fc4db000b24721146a2298cf550594d8246d8708.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nagoe\\source\\repos\\Recreation\\Recreation.Server\\wwwroot\\images\\ce0065d0-b2bd-43db-a900-e5fb09c2a8571663123241_28-mykaleidoscope-ru-p-veseloe-puteshestvie-krasivo-33.jpg",
+      "PackagePath": "staticwebassets\\images\\ce0065d0-b2bd-43db-a900-e5fb09c2a8571663123241_28-mykaleidoscope-ru-p-veseloe-puteshestvie-krasivo-33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nagoe\\source\\repos\\Recreation\\Recreation.Server\\wwwroot\\images\\default_avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\default_avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nagoe\\source\\repos\\Recreation\\Recreation.Server\\wwwroot\\images\\e33ba29c17be919603c540fff38b18de.jpg",
+      "PackagePath": "staticwebassets\\images\\e33ba29c17be919603c540fff38b18de.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nagoe\\source\\repos\\Recreation\\Recreation.Server\\wwwroot\\images\\e518ee43-7480-4a7d-bf0f-29fef386969bmain_offer.jpg",
+      "PackagePath": "staticwebassets\\images\\e518ee43-7480-4a7d-bf0f-29fef386969bmain_offer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nagoe\\source\\repos\\Recreation\\Recreation.Server\\wwwroot\\images\\ea50e40a-e076-47fe-a61e-e9cbcbf05717SHossejnyj-beg_005.jpg",
+      "PackagePath": "staticwebassets\\images\\ea50e40a-e076-47fe-a61e-e9cbcbf05717SHossejnyj-beg_005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nagoe\\source\\repos\\Recreation\\Recreation.Server\\wwwroot\\images\\main_offer.jpg",
+      "PackagePath": "staticwebassets\\images\\main_offer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nagoe\\source\\repos\\Recreation\\Recreation.Server\\wwwroot\\images\\velosipedy.jpg",
+      "PackagePath": "staticwebassets\\images\\velosipedy.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Recreation.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Recreation.Server.props",
+      "PackagePath": "build\\Recreation.Server.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Recreation.Server.props",
+      "PackagePath": "buildMultiTargeting\\Recreation.Server.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Recreation.Server.props",
+      "PackagePath": "buildTransitive\\Recreation.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

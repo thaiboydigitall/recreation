@@ -1,0 +1,12 @@
+.input-login {
+    border-radius: 0 !important;
+    border-top-right-radius: .5rem !important;
+    border-top-left-radius: .5rem !important;
+}
+
+.input-password {
+    border-radius: 0 !important;
+    border-bottom-left-radius: .5rem!important;
+    border-bottom-right-radius: .5rem !important;
+    border-top-width: 0 !important;
+}

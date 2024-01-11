@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\nagoe\source\repos\Recreation\Recreation.Server\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-01-11T17:49:17.7724317Z;True|2024-01-11T20:39:12.7004671+03:00;True|2024-01-11T17:49:09.5482190+03:00;True|2024-01-11T17:05:15.4235460+03:00;True|2024-01-11T17:04:30.1973583+03:00;True|2024-01-11T17:01:51.0022658+03:00;True|2024-01-11T16:16:24.9408412+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
